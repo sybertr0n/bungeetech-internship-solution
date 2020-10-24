@@ -1,5 +1,5 @@
 # Solution for Bungee Internship
-This is the solution code for Bungee internship problem statement.
+This is the solution code written in NodeJs for Bungee internship problem statement.
 
 ## To run the code.
 1. Install NodeJs and NPM in your system.
