@@ -1,0 +1,14 @@
+{
+  "name": "bungeesolution",
+  "version": "1.0.0",
+  "description": "Solution for Bungee Problem Statement",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abishek",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.3.2"
+  }
+}
