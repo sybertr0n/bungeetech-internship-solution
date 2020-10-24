@@ -3,7 +3,7 @@ This is the solution code written in NodeJs for BungeeTech internship problem st
 
 ## To run the code.
 1. Install NodeJs and NPM in your system.
-2. In terminal, run `npm i` to download the dependancies  before running the code.
+2. In terminal, run `npm i` to download and install the dependancies  before running the code.
 3. Run the code by running `node solution.js`.
 
 ### Note
